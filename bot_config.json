@@ -1,0 +1,9 @@
+{
+    "author": "test",
+    "email": "test@test.com",
+    "url": "https://test.com",
+    "comment": "test comment",
+    "success_file": "success.txt",
+    "delay": "2",
+    "language": "tr"
+}
