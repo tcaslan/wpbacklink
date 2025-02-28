@@ -2,7 +2,7 @@
 
 WPBacklink is a powerful and user-friendly application designed to automate comment submissions on WordPress sites. It features a modern, customizable interface with both light and dark themes, comprehensive logging, and robust configuration options.
 
-![WPBacklink Screenshot](https://i.imgur.com/placeholder.png)
+![WPBacklink](https://i.imgur.com/TqHW33Q.png)
 
 ## 🌟 Features
 
